@@ -1,6 +1,6 @@
 # tarea1
 Integrantes
 
-Jos´ Ignacio Alarcón Recabal
+- José Ignacio Alarcón Recabal
 
-Ingrid Lucila Triviño Silva
+- Ingrid Lucila Triviño Silva
